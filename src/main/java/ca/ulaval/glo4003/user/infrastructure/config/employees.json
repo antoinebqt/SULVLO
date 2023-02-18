@@ -1,0 +1,47 @@
+[
+  {
+    "userId": "111234567",
+    "name": "Charles Morin",
+    "birthDate": "1999-06-10",
+    "gender": "male",
+    "email": "charles12@gmail.com",
+    "password": "Charles123",
+    "role": "technician"
+  },
+  {
+    "userId": "111534367",
+    "name": "Etienne Marin",
+    "birthDate": "2000-08-12",
+    "gender": "male",
+    "email": "etienne12@gmail.com",
+    "password": "Etienne123",
+    "role": "technician"
+  },
+  {
+    "userId": "111238557",
+    "name": "Juliette Desjardins",
+    "birthDate": "1999-03-10",
+    "gender": "female",
+    "email": "juliette12@gmail.com",
+    "password": "Juliette123",
+    "role": "admin"
+  },
+  {
+    "userId": "111234531",
+    "name": "Alexanne Boudin",
+    "birthDate": "1999-08-19",
+    "gender": "female",
+    "email": "alexanne12@gmail.com",
+    "password": "Alexanne123",
+    "role": "technician"
+  },
+  {
+    "userId": "111234732",
+    "name": "Sylvain",
+    "birthDate": "1994-04-23",
+    "gender": "male",
+    "email": "sylvain123@ulaval.ca",
+    "password": "Sylvain1234",
+    "role": "technician"
+  }
+]

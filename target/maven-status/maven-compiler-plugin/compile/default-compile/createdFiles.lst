@@ -1,0 +1,4 @@
+ca\ulaval\glo4003\trip\application\dtos\TripDto.class
+ca\ulaval\glo4003\subscription\infrastructure\DevPaymentClientImpl.class
+ca\ulaval\glo4003\code\infrastructure\CodeDevDataFactory.class
+ca\ulaval\glo4003\trip\application\assemblers\HistorySummaryAssembler.class

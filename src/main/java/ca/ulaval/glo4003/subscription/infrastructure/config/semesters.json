@@ -1,0 +1,38 @@
+{
+  "A2022": {
+    "season": "AUTUMN",
+    "year": 2022,
+    "startDate": "2022-09-06",
+    "endDate": "2022-12-16"
+  },
+  "H2023": {
+    "season": "WINTER",
+    "year": 2023,
+    "startDate": "2023-01-10",
+    "endDate": "2023-04-21"
+  },
+  "E2023": {
+    "season": "SUMMER",
+    "year": 2023,
+    "startDate": "2023-05-01",
+    "endDate": "2023-08-11"
+  },
+  "A2023": {
+    "season": "AUTUMN",
+    "year": 2023,
+    "startDate": "2023-09-04",
+    "endDate": "2023-12-15"
+  },
+  "H2024": {
+    "season": "WINTER",
+    "year": 2024,
+    "startDate": "2024-01-15",
+    "endDate": "2024-04-26"
+  },
+  "E2024": {
+    "season": "SUMMER",
+    "year": 2024,
+    "startDate": "2024-05-06",
+    "endDate": "2024-08-16"
+  }
+}

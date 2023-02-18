@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.ulaval.glo4003.subscription.api.SubscriptionValidatorTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s - in ca.ulaval.glo4003.subscription.api.SubscriptionValidatorTest

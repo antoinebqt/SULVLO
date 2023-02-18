@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.ulaval.glo4003.code.api.CodeResourceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.075 s - in ca.ulaval.glo4003.code.api.CodeResourceTest
